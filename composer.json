@@ -1,0 +1,16 @@
+{
+    "name": "mauricio/buscador-cursos",
+    "description": "Projeto que busca cursos",
+    "type": "library",
+    "authors": [
+        {
+            "name": "mauricioribeirosantos",
+            "email": "mausamtos@hotmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "symfony/dom-crawler": "^4.2",
+        "symfony/css-selector": "^4.3"
+    }
+}
